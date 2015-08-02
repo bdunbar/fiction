@@ -1,0 +1,11 @@
+IFID: C8CFE901-00EC-4969-A140-09610A8650E5
+Name: My First Game
+Byline: by Brian Dunbar
+AuthorEmail: Brian Dunbar <brian.dunbar@gmail.com>
+Desc: This is an example of how to start a new game project. 
+Version: 1
+ReleaseDate: 2015-08-02
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default
