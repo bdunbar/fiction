@@ -1,2 +1,2 @@
 # fiction
-Interactive Fiction
+A place to stash interactive fiction.
